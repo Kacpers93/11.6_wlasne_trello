@@ -133,4 +133,3 @@ $(function() {
     extraTask.addCard(card4);
     extraTask.addCard(card5);
 })
-
